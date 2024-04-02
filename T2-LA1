@@ -1,0 +1,72 @@
+<html>
+<head>
+<style>
+table,th,td{
+  border:1px solid pink;
+}
+</style>
+<body>
+<table style=width:10000000%">
+<tr>
+<th>ID NO</th>
+<th> STUDENT NAME</th>
+<th> AGE</th>
+</tr>
+<tr>
+<ul>
+<td>NLP-21-00412</td>
+<td>Daryl elefante</td>
+<td>22</td>
+</tr>
+<tr>
+<td>NLP-21-00413</td>
+<td>Lee Fontilar</td>
+<td>21</td>
+</tr>
+<tr>
+<td>NLP-21-00411</td>
+<td>Resty Veronia</td>
+<td>21</td>
+</tr>
+<tr>
+<td>NLP-21-00417</td>
+<td>Joeben ragunton</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NLP-21-00418</td>
+<td>Christian gacusan</td>
+<td>22</td>
+</tr>
+<tr>
+<ul>
+<!--breakfast-->
+<h1 body style="background-color:Red;"></body>Favorite Breakfast</h1>
+<li>Sinigang</li>
+<li>Adobo</li>
+<li>Denengdeng</li>
+<li>gataan</li>
+<li>sinanglao</li>
+</tr>
+</ul>
+
+<!--Animals-->
+<h1><div align="center" body style="background-color:yellow;"></body>Favorite Animal</div></h1>
+<ol>
+<li>Kuto</li>
+<li>lizard</li>
+<li>mouse</li>
+<li>itik</li>
+<li>tipaklong</li>
+</ol>
+<dl>
+<h1><div align="center" body style="background-color:Green;"></body>Top 3 instructor in their hitlist</h1></div>
+<dt>Sir Owen</dt>
+<dd>Nasingpet,Nalaing</dd>
+<dt>Maam Suni</dt>
+<dd>Funny,friendly</dd>
+<dt>Sir Gem</dt>
+<dd>funny,pogi</dd>
+</dl>
+</html>
+</head>
